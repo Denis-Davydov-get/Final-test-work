@@ -5,6 +5,6 @@
 **Реализация алгоритма в [ссылке](Program.cs)**
 
 
-**2 блок схемы для методов находятся в [ссылке](https://github.com/Denis-Davydov-get/Final-test-work)**
+**Две блок схемы для методов :**
 [SearchMinElement](SearchMinElement.jpg)
 [PrintArray](PrintArray.jpg)
