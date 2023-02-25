@@ -6,5 +6,5 @@
 
 
 **2 блок схемы для методов находятся в [ссылке](https://github.com/Denis-Davydov-get/Final-test-work)**
-*SearchMinElement.jpg*
-*PrintArray.jpg*
+[SearchMinElement](SearchMinElement.jpg)
+[PrintArray](PrintArray.jpg)
