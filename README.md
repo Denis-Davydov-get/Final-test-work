@@ -6,5 +6,5 @@
 
 
 **Две блок схемы для методов :**
-[SearchMinElement](SearchMinElement.jpg)
-[PrintArray](PrintArray.jpg)
+* [SearchMinElement](SearchMinElement.jpg)
+* [PrintArray](PrintArray.jpg)
